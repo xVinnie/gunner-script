@@ -12,4 +12,4 @@ Ranged classes have no desync issues.
 
 BONUS: Rolling Reload > Mana Missles Perfect Chain
 
-For inquiries, contact me on discord: Kasea#0676
+For inquiries, contact me on discord: Leiki#8317
