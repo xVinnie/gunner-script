@@ -1,4 +1,4 @@
-/* Script by Bernsketal */
+/* Script by Kasea */
 
 const GLOBAL_LATENCY = 230; //set this to slightly lower than your ping
 const DEBUG = true;
