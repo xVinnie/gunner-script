@@ -19,6 +19,9 @@ SKILL_SCATTERSHOT= 67139965,
 SKILL_SCATTERSHOT_DURATION = 1630,
 SKILL_SCATTERSHOT_DISTANCE = -108,
 
+
+BIGINT_SUPPORT = TRUE,
+      
 module.exports = function gunner(dispatch){
 	let cid, job, model, enabled, aspd;
 	
