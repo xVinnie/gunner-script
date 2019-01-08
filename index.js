@@ -4,7 +4,7 @@ const GLOBAL_LATENCY = 230; //set this to slightly lower than your ping
 const DEBUG = true;
 const DISABLE = false;
 
-const JOB_GUNNER = 9;
+const JOB_GUNNER = 9n;
 const GLOBAL_LOCK_DELAY = 1000;
 
 const SKILL_AA = 67120065,
